@@ -9,7 +9,7 @@ tekst tekst tekst tekst
 ```
 
 ## Tekst 2
-<font color = "red">
+<font size="6">
 tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst 
 tekst tekst teksttekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst
 tekst tekst tekst tekst </font>
