@@ -14,6 +14,7 @@ tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst te
 tekst tekst teksttekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst
 tekst tekst tekst tekst </font>
 
+
 **Pogrubione**
 
 *Kursywa*
@@ -22,5 +23,3 @@ tekst tekst tekst tekst </font>
 * point 1
 * point 2
 * point 3
-
-
