@@ -1,4 +1,4 @@
-Times New Roman# TYTUŁ
+# TYTUŁ
 
 ## Tekst 1
 
