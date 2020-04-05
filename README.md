@@ -15,9 +15,7 @@ tekst tekst teksttekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tek
 tekst tekst tekst tekst </font>
 
 
-**Pogrubione**
-
-*Kursywa*
+**Pogrubione** </n> *Kursywa*
 
 **Points**
 * point 1
