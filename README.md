@@ -1,4 +1,4 @@
-# TYTUŁ
+Times New Roman# TYTUŁ
 
 ## Tekst 1
 
@@ -9,7 +9,7 @@ tekst tekst tekst tekst
 ```
 
 ## Tekst 2
-<font style = "Times New Roman">
+<font style = "Comic Sans MS">
 tekst tekst tekst tekst tekst tekst tekst **tekst** tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst 
 tekst tekst teksttekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst
 tekst tekst tekst tekst </font>
