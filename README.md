@@ -9,7 +9,17 @@ tekst tekst tekst tekst
 ```
 
 ## Tekst 2
-<font style = "Comic Sans MS">
-tekst tekst tekst tekst tekst tekst tekst **tekst** tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst 
+<font color = "red">
+tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst 
 tekst tekst teksttekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst
 tekst tekst tekst tekst </font>
+
+**Pogrubione**
+*Kursywa*
+
+**Points**
+* point 1
+* point 2
+* point 3
+
+
