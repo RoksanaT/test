@@ -9,13 +9,15 @@ tekst tekst tekst tekst
 ```
 
 ## Tekst 2
-<font size="6">
+<p style="font-family: times, serif; font-size:11pt; font-style:italic">
 tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst 
 tekst tekst teksttekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst
-tekst tekst tekst tekst </font>
+tekst tekst tekst tekst </p>
 
 
-**Pogrubione** </n> *Kursywa*
+**Pogrubione** 
+
+*Kursywa*
 
 **Points**
 * point 1
