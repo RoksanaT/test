@@ -1,5 +1,5 @@
-# test
+# TYTUŁ
 
-To jest moje pierwsze repozytorium!
+## Tekst
 
-Edytowałam plik z poziomu GitHub.
+** Pogrubione **
